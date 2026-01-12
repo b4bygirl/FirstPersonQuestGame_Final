@@ -1,4 +1,4 @@
-# 3D Игра от первого лица: Квест
+# 3D Игра от первого лица: Everland
 
 ![Gameplay](Assets/GIFs/gameplay.gif)
 
